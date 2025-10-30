@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## FVM
 
-FVM is a must have tool for managing Flutter SDK versions and is used in this project.
+FVM is a must have tool for managing Flutter SDK versions and is used in this project.    
 Check out the [FVM documentation](https://fvm.app/documentation/getting-started) for more details.
 
 ### Installation
