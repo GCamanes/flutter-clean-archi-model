@@ -26,7 +26,8 @@ Install fvm via Homebrew (macOS)
 
 ### Install and use the project flutter version
 
-Install a specific Flutter version: 
+Install a specific Flutter version :
+
 ```fvm install <version> ```
 Ex : ```fvm install 3.35.7```
 
@@ -38,6 +39,7 @@ Change version specified in the project (file `.fvm` will be edited) :
 
 Use FVM to execute Flutter commands :  
 ```fvm flutter pub get```
+
 ```fvm flutter run```
 
 ### Android Studio configuration
