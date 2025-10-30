@@ -30,8 +30,8 @@ Install a specific Flutter version :
 ```fvm install <version> ```  
 Ex : `fvm install 3.35.7`
 
-Use the version specified in the project (in file `.fvm`) : 
-```fvm use```
+Use the version specified in the project (in file `.fvm`) :    
+```fvm use```  
 
 Change version specified in the project (file `.fvm` will be edited) :  
 ```fvm use <version>```
