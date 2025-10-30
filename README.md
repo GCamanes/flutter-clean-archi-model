@@ -21,23 +21,23 @@ Check out the [FVM documentation](https://fvm.app/documentation/getting-started)
 
 ### Installation
 
-Install fvm via Homebrew (macOS)  
+Install fvm via Homebrew (macOS) 
 ```brew tap leoafarias/fvm && brew install fvm```
 
 ### Install and use the project flutter version
 
-Install a specific Flutter version :
-```fvm install <version> ```
+Install a specific Flutter version :   
+```fvm install <version> ```  
 Ex : `fvm install 3.35.7`
 
-Use the version specified in the project (in file `.fvm`) :  
+Use the version specified in the project (in file `.fvm`) : 
 ```fvm use```
 
 Change version specified in the project (file `.fvm` will be edited) :  
 ```fvm use <version>```
 
-Use FVM to execute Flutter commands :  
-```fvm flutter pub get```
+Use FVM to execute Flutter commands :
+```fvm flutter pub get```  
 ```fvm flutter run```
 
 ### Android Studio configuration
